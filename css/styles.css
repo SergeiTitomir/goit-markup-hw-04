@@ -220,7 +220,7 @@ a {
       var(--hero-gradient-color),
       var(--hero-gradient-color)
     ),
-    url(../background.jpg);
+    url(../source_images/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
