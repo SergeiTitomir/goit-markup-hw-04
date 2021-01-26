@@ -94,6 +94,7 @@ a {
 }
 
 /* ============== HEADER ============== */
+
 .header > .container {
   display: flex;
   padding-top: 24px;
@@ -147,6 +148,7 @@ a {
   width: 10px;
   height: 16px;
 }
+
 .address-list-text {
   display: block;
   padding-left: 10px;
@@ -180,7 +182,7 @@ a {
 .address-list-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 1.142;
+  line-height: 1.143;
   letter-spacing: 0.02em;
 }
 
@@ -418,6 +420,7 @@ a {
 .social-list-link:focus .social-list-icon {
   fill: var(--main-color-dark-backgr);
 }
+
 /* ============== END OUR COMAND ============== */
 
 /* ============== OUR CLIENTS ============== */
