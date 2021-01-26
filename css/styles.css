@@ -209,11 +209,12 @@ a {
 
 /* ============== HERO SECTION ============== */
 
-.hero-section {
+/*.hero-section {
   background-color: var(--backgr-color-first);
-}
+}*/
 
 .hero-section > .container {
+  /*background-color: var(--backgr-color-first);*/
   flex-direction: column;
   padding-top: 200px;
   padding-bottom: 200px;
